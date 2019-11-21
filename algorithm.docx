@@ -1,0 +1,13 @@
+1. The program asks if the user would like to add a school to output and asks for a 'y' or 'n'.
+2. The program asks if the user is entering a Full, Part, or Half time semester and asks for a 'f', 'p' or 'h'.
+3. The program allows the user to input the school name, cost per credit hour, book cost per class, room and board coast per month, food cost per month and travel cost per month.
+4. The program outputs the school name as a string
+5. The tuition is calculated by multiplying the hours taken by the cost per credit hour and output as a string
+6. The cost of room and board for the semester is calculated by multiplaying the months in a semester by the cost of the room and board per month and output as a string
+7. The cost of books is calculated by multiplying the book cost per class by the hours taken this semester divided by 3 and output as a string
+8. The cost of travel is calculated by multiplying the travel cost per month by the number of months in a semester and output as a string
+9. The cost of food is calculated by multiplying the cost of food per month by the number of months in a semester and output as a string
+10. The total cost of the semester is calculated by adding all the previous costs together and output as a string
+11. The time to complete a 60 hour degree in semesters is calculated by dividing the hours in a degree(60) by the hours taken in a semester and ouput as a string
+12. The time to complete a 60 hour degree in years is calculated by dividing the hours in a degree(60) by the number of semesters in a year and output as a string
+13. The total cost of a 60 hour degree is calculated by multiplying the total cost of a semester by the number of semesters in a 60 hour degree and output as a string.
